@@ -75,7 +75,7 @@ In case of a successful connection:
 
 Editor response
 ---------------
-Below is the vendor's response, which is quite satisfactory: they are aware of the problem, and have rolled configuration options to prevent it.
+Below is the vendor's response, which is quite satisfying: they are aware of the problem, and have rolled configuration options to prevent it.
 
 That being said you do have to make sure your appliance is properly configured because as far as I can tell these are not used by default, at least not when upgrading the appliance from earlier versions.
 
